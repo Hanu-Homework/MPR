@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B7:13:1D:33:6F:0E:31:62:51:DF:83:49:46:C8:5A:61:ED:40:D7:5A%3Bhanu.mpr.cute_firebase_demo
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    hanu.mpr.cute_firebase_demo
+
+    SHA-1 certificate fingerprint:
+    B7:13:1D:33:6F:0E:31:62:51:DF:83:49:46:C8:5A:61:ED:40:D7:5A
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDstkkpKOs5ja04Tn88xvSZfNJwMECKOBs</string>
+</resources>

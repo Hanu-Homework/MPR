@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BookmarksFragment">
+
+    <TableLayout
+        android:stretchColumns="*"
+        android:shrinkColumns="*"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <TableRow>
+
+            <ImageView
+                android:id="@+id/baomoiImageView"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/baomoi"
+                android:padding="20dp"
+                />
+
+            <ImageView
+                android:id="@+id/bluezoneImageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/bluezone"
+                android:padding="20dp"
+                />
+        </TableRow>
+
+        <TableRow>
+            <ImageView
+                android:id="@+id/mediumImageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/todo"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:src="@drawable/medium"
+                android:padding="20dp"/>
+
+            <ImageView
+                android:id="@+id/vnexpressImageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/todo"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:src="@drawable/vnexpress"
+                android:padding="20dp"/>
+        </TableRow>
+
+    </TableLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

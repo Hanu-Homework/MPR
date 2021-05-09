@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Notes with DB</string>
+    <string name="guide">Click item for actions, (+) for adding another note.</string>
+    <string name="text">Text</string>
+    <string name="new_note">New Note</string>
+    <string name="edit_note">Edit Note</string>
+</resources>

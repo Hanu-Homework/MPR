@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Team</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="viewing_websites">Viewing websites</string>
+    <string name="location_and_map_based_functionality">Location- and map-based functionality</string>
+    <string name="rest_based_web_services_invocation">REST-based Web services invocation</string>
+    <string name="embedded_webview">Embedded WebView</string>
+    <string name="invoking_browser_app">Invoking browser app</string>
+    <string name="left_button">Left Button</string>
+    <string name="center_image">Center Image</string>
+</resources>

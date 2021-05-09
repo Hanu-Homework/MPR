@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/BookMarksFragment">
+
+    <fragment
+        android:id="@+id/BookMarksFragment"
+        android:name="hanu.mpr.tut09.BookmarksFragment"
+        android:label="@string/bookmarks_fragment_label"
+        tools:layout="@layout/fragment_bookmarks">
+
+        <action
+            android:id="@+id/action_BookmarkFragment_to_WebViewFragment"
+            app:destination="@id/WebViewFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/WebViewFragment"
+        android:name="hanu.mpr.tut09.WebViewFragment"
+        android:label="@string/webview_fragment_label"
+        tools:layout="@layout/fragment_webview">
+
+        <action
+            android:id="@+id/action_WebViewFragment_to_BookMarksFragment"
+            app:destination="@id/BookMarksFragment" />
+    </fragment>
+</navigation>

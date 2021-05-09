@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646054666750",
+    "project_id": "cute-firebase-demo",
+    "storage_bucket": "cute-firebase-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646054666750:android:f4047f510153639208e0af",
+        "android_client_info": {
+          "package_name": "hanu.mpr.cute_firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646054666750-h9mfjmqlvp0uehaiv3je1icclk7j633j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhIYAQwbWAhIlnW-9ddWHdzZYzlBXa4OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646054666750-h9mfjmqlvp0uehaiv3je1icclk7j633j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

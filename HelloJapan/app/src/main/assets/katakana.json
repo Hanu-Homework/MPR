@@ -1,0 +1,241 @@
+[
+  {
+    "jp": "ア",
+    "vn": "a",
+    "name": "a.mp3"
+  },
+  {
+    "jp": "イ",
+    "vn": "i",
+    "name": "i.mp3"
+  },
+  {
+    "jp": "ウ",
+    "vn": "u",
+    "name": "u.mp3"
+  },
+  {
+    "jp": "エ",
+    "vn": "e",
+    "name": "e.mp3"
+  },
+  {
+    "jp": "オ",
+    "vn": "o",
+    "name": "o.mp3"
+  },
+  {
+    "jp": "カ",
+    "vn": "ka",
+    "name": "ka.mp3"
+  },
+  {
+    "jp": "キ",
+    "vn": "ki",
+    "name": "ki.mp3"
+  },
+  {
+    "jp": "ク",
+    "vn": "ku",
+    "name": "ku.mp3"
+  },
+  {
+    "jp": "ケ",
+    "vn": "ke",
+    "name": "ke.mp3"
+  },
+  {
+    "jp": "コ",
+    "vn": "ko",
+    "name": "ko.mp3"
+  },
+  {
+    "jp": "サ",
+    "vn": "sa",
+    "name": "sa.mp3"
+  },
+  {
+    "jp": "シ",
+    "vn": "shi",
+    "name": "shi.mp3"
+  },
+  {
+    "jp": "ス",
+    "vn": "su",
+    "name": "su.mp3"
+  },
+  {
+    "jp": "セ",
+    "vn": "se",
+    "name": "se.mp3"
+  },
+  {
+    "jp": "ソ",
+    "vn": "so",
+    "name": "so.mp3"
+  },
+  {
+    "jp": "タ",
+    "vn": "ta",
+    "name": "ta.mp3"
+  },
+  {
+    "jp": "チ",
+    "vn": "chi",
+    "name": "chi.mp3"
+  },
+  {
+    "jp": "ツ",
+    "vn": "tsu",
+    "name": "tsu.mp3"
+  },
+  {
+    "jp": "テ",
+    "vn": "te",
+    "name": "te.mp3"
+  },
+  {
+    "jp": "ト",
+    "vn": "to",
+    "name": "to.mp3"
+  },
+  {
+    "jp": "ナ",
+    "vn": "na",
+    "name": "na.mp3"
+  },
+  {
+    "jp": "ニ",
+    "vn": "ni",
+    "name": "ni.mp3"
+  },
+  {
+    "jp": "ヌ",
+    "vn": "nu",
+    "name": "nu.mp3"
+  },
+  {
+    "jp": "ネ",
+    "vn": "ne",
+    "name": "ne.mp3"
+  },
+  {
+    "jp": "ノ",
+    "vn": "no",
+    "name": "no.mp3"
+  },
+  {
+    "jp": "ハ",
+    "vn": "ha",
+    "name": "ha.mp3"
+  },
+  {
+    "jp": "ヒ",
+    "vn": "hi",
+    "name": "hi.mp3"
+  },
+  {
+    "jp": "フ",
+    "vn": "fu",
+    "name": "fu.mp3"
+  },
+  {
+    "jp": "ヘ",
+    "vn": "he",
+    "name": "he.mp3"
+  },
+  {
+    "jp": "ホ",
+    "vn": "ho",
+    "name": "ho.mp3"
+  },
+  {
+    "jp": "マ",
+    "vn": "ma",
+    "name": "ma.mp3"
+  },
+  {
+    "jp": "ミ",
+    "vn": "mi",
+    "name": "mi.mp3"
+  },
+  {
+    "jp": "ム",
+    "vn": "mu",
+    "name": "mu.mp3"
+  },
+  {
+    "jp": "メ",
+    "vn": "me",
+    "name": "me.mp3"
+  },
+  {
+    "jp": "モ",
+    "vn": "mo",
+    "name": "mo.mp3"
+  },
+  {
+    "jp": "ヤ",
+    "vn": "ya",
+    "name": "ya.mp3"
+  },
+  { "jp": null, "vn": null, "name": null },
+  {
+    "jp": "ユ",
+    "vn": "yu",
+    "name": "yu.mp3"
+  },
+  { "jp": null, "vn": null, "name": null },
+  {
+    "jp": "ヨ",
+    "vn": "yo",
+    "name": "yo.mp3"
+  },
+  {
+    "jp": "ラ",
+    "vn": "ra",
+    "name": "ra.mp3"
+  },
+  {
+    "jp": "リ",
+    "vn": "ri",
+    "name": "ri.mp3"
+  },
+  {
+    "jp": "ル",
+    "vn": "ru",
+    "name": "ru.mp3"
+  },
+  {
+    "jp": "レ",
+    "vn": "re",
+    "name": "re.mp3"
+  },
+  {
+    "jp": "ロ",
+    "vn": "ro",
+    "name": "ro.mp3"
+  },
+  {
+    "jp": "ワ",
+    "vn": "wa",
+    "name": "wa.mp3"
+  },
+  { "jp": null, "vn": null, "name": null },
+  { "jp": null, "vn": null, "name": null },
+  { "jp": null, "vn": null, "name": null },
+  {
+    "jp": "ヲ",
+    "vn": "wo",
+    "name": "wo.mp3"
+  },
+  { "jp": null, "vn": null, "name": null },
+  { "jp": null, "vn": null, "name": null },
+  { "jp": null, "vn": null, "name": null },
+  { "jp": null, "vn": null, "name": null },
+  {
+    "jp": "ン",
+    "vn": "n",
+    "name": "n.mp3"
+  }
+]
